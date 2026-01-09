@@ -1,0 +1,14 @@
+finance-app/
+│
+├── app.py
+├── database.py
+├── rules.py
+│
+├── pages/
+│   ├── 1_🏠_Casa_e_Pessoas.py
+│   ├── 2_🧾_Gastos.py
+│   └── 3_📊_Dashboard.py
+│
+├── requirements.txt
+├── .gitignore
+└── README.md
